@@ -1,0 +1,16 @@
+body.bg-dark {
+  background-color: #121212 !important;
+}
+
+.card.bg-secondary {
+  background-color: #2c2c2c !important;
+  border: none;
+}
+
+.card .btn {
+  margin-right: 5px;
+}
+
+#messages {
+  margin-bottom: 1rem;
+}
