@@ -65,5 +65,6 @@ Open index.html in your browser
 
 ☁️ Cloud sync support
 
-🙌 Author
-Made with by Shashank Khanna
+Contact Shashank Khanna 
+📫 Email: shashankkhanna98@gmail.com 
+🔗 GitHub: @shashankkhanna1001
